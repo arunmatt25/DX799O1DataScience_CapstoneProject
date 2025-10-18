@@ -1,0 +1,3 @@
+Model,Train RMSE,Train MAE,Train R²,Test RMSE,Test MAE,Test R²,Best Params
+DecisionTree,7.926404046059172,6.739755272343515,0.157741793013228,8.023839773725939,6.743060376332662,0.11045320606955689,"{'max_depth': 4, 'min_samples_split': 10, 'min_samples_leaf': 2, 'max_features': None}"
+RandomForest,6.175293045033994,5.395747320646411,0.488779828717149,8.091612478897341,7.036151622820187,0.09536277583165809,"{'n_estimators': 250, 'max_depth': 10, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt'}"
